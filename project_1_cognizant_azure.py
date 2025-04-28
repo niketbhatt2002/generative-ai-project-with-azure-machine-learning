@@ -10,7 +10,7 @@ Original file is located at
 # Install libraries
 !pip install transformers datasets
 
-# Load dataset
+# Loading dataset
 from datasets import load_dataset
 dataset = load_dataset("xsum")  # Or use your custom dataset
 
