@@ -1,4 +1,4 @@
-# Fine-Tuning T5-small for Text Summarization
+# Fine-Tuning T5-small for Text Summarization.
 
 This project fine-tunes the `t5-small` transformer model on the **XSum** dataset for text summarization tasks.  
 It involves loading a dataset, preprocessing, training the model, saving the fine-tuned model, and evaluating its performance.
